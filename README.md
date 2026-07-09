@@ -25,7 +25,7 @@
 #Bloque 2 
 1. [Actividad 1](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act1.py)
 2. [Actividad 2](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act2.py)
-3. [Actividad 3](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act3.py)
+3. [Actividad 3](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/Actividad3.py)
 4. [Actividad 4](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act4.py)
 5. [Actividad 5](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act5.py)
 6. [Arbol de desicion] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/ARBOL%20DE%20DESICION.jpg) 
