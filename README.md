@@ -28,4 +28,5 @@
 3. [Actividad 3](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/Actividad3.py)
 4. [Actividad 4](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act4.py)
 5. [Actividad 5](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act5.py)
-6. [Arbol de desicion] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/ARBOL%20DE%20DESICION.jpg) 
+6. [Arbol de desicion] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/ARBOL%20DE%20DESICION.jpg)
+7. [Cuadro comparativo] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/Cuadro%20comparativo%20.jpg)
