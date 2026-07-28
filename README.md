@@ -33,4 +33,5 @@
 8. [Actividad 7](https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act7.py)
 
 #Bloque 3
+
 [Actividad 1] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act1.py)
