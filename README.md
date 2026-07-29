@@ -34,4 +34,4 @@
 
 #Bloque 3
 
-[Actividad 1 KMEANS] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act1.py)
+[Actividad 1 KMEANS] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act1.py) (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/interpretacion%20de%20kemans)
