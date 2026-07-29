@@ -1,0 +1,7 @@
+El algoritmo K-Means permitió identificar tres perfiles de clientes claramente diferenciados:
+
+Cluster 0: Clientes con actividad media y potencial de crecimiento.
+Cluster 1: Clientes con baja actividad y riesgo de abandono.
+Cluster 2: Clientes frecuentes, con alto gasto y mayor interacción, considerados los más valiosos para la empresa.
+
+Esta segmentación facilita la toma de decisiones al permitir diseñar estrategias específicas para cada tipo de cliente, mejorando las campañas de marketing y la atención personalizada.
