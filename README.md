@@ -35,7 +35,11 @@
 #Bloque 3
 
 [Actividad 1 KMEANS] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/act1.py) (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/interpretacion%20de%20kemans)
+
 [Cuadro comparativo] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/tarea%20cuadro%20comparativo.png)
+
 [cuestionario] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/Cuestionario%20prediccion)
+
 [Actividad clientes] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/actividad(1).py)
+
 [Actividad equipos de computo] (https://github.com/AlexAp-007/Mineria-de-datos-/blob/main/actequiposcomputo.py)
