@@ -1,0 +1,8 @@
+¿La predicción tiene sentido?
+Sí. Al observar los datos, el primer cliente compra poco, gasta poco y visita poco la página, por lo que es lógico clasificarlo con un consumo bajo. El segundo cliente presenta valores intermedios y el tercero tiene todos los indicadores elevados, por lo que se espera un consumo alto.
+¿Qué variable parece influir más?
+Aunque todas influyen, el gasto mensual suele tener un peso importante porque refleja directamente cuánto dinero invierte el cliente. También las compras mensuales ayudan mucho a identificar el nivel de consumo.
+¿Qué pasa si aumentas el gasto mensual?
+Si aumentamos el gasto mensual y las demás variables permanecen iguales, es probable que el modelo considere que el cliente tiene un nivel de consumo más alto, ya que está realizando compras de mayor valor.
+¿Qué pasa si disminuyes la satisfacción?
+Si la satisfacción disminuye, el modelo podría reducir ligeramente la probabilidad de clasificar al cliente como de consumo alto. Sin embargo, si el cliente continúa comprando con frecuencia y gastando mucho dinero, es posible que siga siendo clasificado con un consumo elevado.
